@@ -5,5 +5,5 @@
 int main (){
 
 
-    printf("Daniel se la come");
+    printf("A Gatgens le gusta el mondongo\n");
 }
